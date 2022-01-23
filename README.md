@@ -14,6 +14,6 @@ View **init.vim** for an overview of what's been modified.
  3. for youcompleteme to function properly for whatever language you use go to https://github.com/ycm-core/YouCompleteMe
 
 **Plugged Setup**
-
+https://github.com/junegunn/vim-plug/blob/master/README.md
 
 **YouCompleteMe Setup**
